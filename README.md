@@ -1,5 +1,7 @@
 # 🗒️ Joplin Skill for OpenClaw
 
+English | [中文](./README_CN.md)
+
 A skill that connects [OpenClaw](https://github.com/nicepkg/openclaw) agents to the local [Joplin](https://joplinapp.org/) note-taking app via its REST API. Enables full CRUD operations on notes, notebooks, and tags, plus full-text search, incremental sync, web clipping, and resource/attachment management.
 
 ## Features
